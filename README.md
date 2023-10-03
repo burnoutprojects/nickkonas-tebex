@@ -1,2 +1,1 @@
-# nickkonas-tebex
-Nickkonas Tebex store
+# Nickkonas-Tebex
