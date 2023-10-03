@@ -1,4 +1,3 @@
-alert('χελλλλλλό');
 const sideMenu = document.getElementById("side-menu");
 const openBtnMenu = document.getElementById("btn-open-mobile");
 const closeBtnMenu = document.getElementById("btn-close-mobile");
